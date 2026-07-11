@@ -10,12 +10,9 @@ I enjoy building projects that combine theoretical concepts with practical imple
 
 ## 💻 Technical Skills
 
-- CSS
-- JavaScript
-- Python
-- C++
-- Git & GitHub
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" />
+</p>
 ---
 
 ## 🔐 Featured Project
