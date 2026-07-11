@@ -1,29 +1,38 @@
-# Hi there, I'm Rokaya Hefela 👋
+<h1 align="center">Hi 👋, I'm Rokaya Hefela</h1>
+
+<h3 align="center">Computer Science Student | Interested in Cybersecurity, Cryptography & Web Development</h3>
+
+---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student passionate about **Cybersecurity**, **Cryptography**, and **Web Development**.
+🎓 I'm a Computer Science student who enjoys learning through hands-on projects.
 
-I enjoy building projects that combine theoretical concepts with practical implementation while continuously improving my programming and problem-solving skills.
+🔐 I'm particularly interested in Cryptography and Cybersecurity.
+
+💻 I enjoy building web applications and continuously improving my programming skills.
+
+🌱 Currently learning more about secure software development and modern cryptography.
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,vscode" />
 </p>
+
 ---
 
-## 🔐 Featured Project
+## 🚀 Featured Project
 
-### Secret Garden Ciphers
+### 🔐 Secret Garden Ciphers
 
-A web-based application developed as a university team project for the **Cryptography** course.
+A web-based application developed as a **team project** for the **Cryptography** course.
 
-The application demonstrates the implementation of multiple encryption and decryption algorithms through an interactive interface.
+The project demonstrates the implementation of multiple classical and modern cryptographic algorithms through an interactive interface.
 
-**Implemented Algorithms**
+**Algorithms Included**
 
 - Caesar Cipher
 - Vigenère Cipher
@@ -33,25 +42,19 @@ The application demonstrates the implementation of multiple encryption and decry
 - Columnar Transposition
 - One-Time Pad (OTP)
 - RSA
-- Diffie–Hellman
+- Diffie–Hellman Key Exchange
 - AES
 - DES
 - Hash Functions
 
----
-
-## 🌱 Currently Learning
-
-- Cybersecurity
-- Secure Software Development
-- Modern Cryptography
+My contribution focused on developing parts of the website, integrating cryptographic algorithms, and improving the user interface. During development, I used AI-assisted tools to support implementation, debugging, and code refinement while understanding, testing, and integrating the code into the project.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/rokaya-hefela-035ab1317
+- LinkedIn www.linkedin.com/in/rokaya-hefela-035ab1317
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
